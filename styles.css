@@ -1,0 +1,44 @@
+img{
+    display: block;
+}
+#image{
+    max-width: 100%;
+    
+  }
+
+h1,p{
+    text-align: center;
+}
+.top{
+    margin-top: 0;
+    padding-top: 0;
+}
+#title{
+    margin-bottom: 0;
+}
+#img-div{
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left:  15em;
+    gap: 10px;;
+}
+.frase{
+    margin-top: 30px;
+    font-size: 20px;
+    margin-bottom: 1px;
+}
+.link{
+    margin-top: 30px;
+}
+body{
+    background-color: #c5cdd4;
+}
